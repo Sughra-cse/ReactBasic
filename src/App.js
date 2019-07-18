@@ -1,5 +1,6 @@
 import React from 'react';
 import Form from './Component/Form';
+import Page from './Scomponent/Page';
 
 // function App() {
 //   return (
@@ -26,6 +27,7 @@ import Form from './Component/Form';
    return (
      <div>
        <Form/>
+       <Page/>
      </div>
    )
  }
